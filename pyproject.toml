@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pylogconfig"
-version = "0.1.0-alpha"
+version = "0.1.0-dev"
 description = "Easily configure Python logger with configuration files."
 authors = ["RemyLau <remylau961@gmail.com>"]
 license = "MIT"
